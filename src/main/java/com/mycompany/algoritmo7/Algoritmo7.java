@@ -12,7 +12,7 @@ package com.mycompany.algoritmo7;
 public class Algoritmo7 {
 
     public static void main(String[] args) {
-       
+       // claro q si mi gallito.
        int x = 0;
        do{
            System.out.println(x+1);
